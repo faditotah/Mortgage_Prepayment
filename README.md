@@ -5,6 +5,7 @@ Code for Master's thesis: **"Machine Learning for Mortgage Prepayment Prediction
 This project tests whether advanced ML models (XGBoost, Random Forest, Neural Networks) can predict mortgage prepayment better than traditional Logistic Regression on French loan-level data.
 
 ## Repository Structure
+```
 ├── Models/ # Main analysis notebooks
 │ ├── Phase_1.ipynb
 │ ├── Phase_2_Resampling.ipynb
@@ -18,7 +19,7 @@ This project tests whether advanced ML models (XGBoost, Random Forest, Neural Ne
 ├── d2105.csv
 ├── d2108.csv
 └── d2111.csv
-
+```
 
 ## Data
 
