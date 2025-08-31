@@ -12,7 +12,7 @@ This project tests whether advanced ML models (XGBoost, Random Forest, Neural Ne
 │ ├── Phase_2_SHAP_Reduction.ipynb
 │ └── Final_Model_Test.ipynb
 ├── data_cleaning/ # Script to clean raw data
-│ └── ESMA_Data_Cleaning_Function.R
+│ └── Extraction_Func_Final.R
 └── clean_data/ # The 5 cleaned datasets used in the study
 ├── d2011.csv
 ├── d2102.csv
